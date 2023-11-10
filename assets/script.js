@@ -19,7 +19,6 @@ function generatePassword() {
   var password = "";
 // Prompts user to enter desired password length.
   var length = prompt("How many characters would you like to include in your password?");
-  console.log(length);
 // If the user is not within the character constraints, they will be informed that they need to be with in the constraints.
   if (length < 8 || length > 128) {
     return "Password must be within the constraints of a minimum of 8 characters and a maximum of 128 characters.";

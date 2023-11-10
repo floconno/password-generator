@@ -5,4 +5,4 @@ This repository contains an HTML, CSS, and JavaScript file that work together to
 ![Password Generator](./assets/images/127.0.0.1_5500_homework_password-generator_index.html.png)
 
 ## Link to deployed site
-
+https://floconno.github.io/password-generator/ 
